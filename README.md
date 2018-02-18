@@ -6,15 +6,15 @@ The Conquer template is a really great starting place for new learners. They hav
 
 ## Challenges
 
-..*Using sections in the navbar to scroll down the page
-..*Scrolling over 3 images
-..*Collapsing the navbar on smaller screens
-..*Stacking the sections correctly on smaller screens
+*Using sections in the navbar to scroll down the page
+*Scrolling over 3 images
+*Collapsing the navbar on smaller screens
+*Stacking the sections correctly on smaller screens
 
 ## Takeaways
 
-..*Learnt about CSS selector specificity rules
-..*Used the new CSS Grid to achieve responsive layout
+*Learnt about CSS selector specificity rules
+*Used the new CSS Grid to achieve responsive layout
 
 ## Acknowledgments
-[Garrett Levine](https://medium.com/@GarrettLevine "Garrett Levine on Medium")
+[Garrett Levine](https://medium.com/@GarrettLevine "Garrett Levine on Medium") - Thank you for the great article
