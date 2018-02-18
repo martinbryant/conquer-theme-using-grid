@@ -4,6 +4,8 @@ Inspired by [5 Projects To Complete When Starting to Learn Front-End Web Develop
 
 The Conquer template is a really great starting place for new learners. They have the opportunity to build something they can feel proud of while still being challenged. The Conquer template utilizes bootstrap, but it is important to avoid using this to build the project
 
+[My version of Conquer](http://martinbryant.io/conquer/conquer-using-grid/ "My Conquer") vs [The original Conquer](http://martinbryant.io/conquer/conquer-original/ "Original Conquer")
+
 ## Challenges
 
 * Using sections in the navbar to scroll down the page
