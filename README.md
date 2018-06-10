@@ -1,4 +1,4 @@
-# Part 1 of my Web Development portfolio
+# Conquer Theme
 
 Inspired by [5 Projects To Complete When Starting to Learn Front-End Web Development](https://medium.com/@GarrettLevine/5-projects-to-complete-when-starting-to-learn-front-end-web-development-48e8a1ce3178 "medium.com")
 
